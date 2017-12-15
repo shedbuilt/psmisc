@@ -1,0 +1,5 @@
+NAME=psmisc
+VERSION=23.1
+REVISION=1
+SRC=https://sourceforge.net/projects/psmisc/files/psmisc/psmisc-23.1.tar.xz
+SRCMD5=bbba1f701c02fb50d59540d1ff90d8d1
